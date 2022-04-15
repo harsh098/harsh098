@@ -32,14 +32,16 @@ I am Harsh Mishra,
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)  
 
 # Skills
-1. Python - Advanced
-2. Git Version Control - Intermediate
-3. C/C++ - Intermediate
-4. HTML  - Intermediate
-5. CSS - Intermediate
-6. Linux Administration - Basic  
-7. Docker - Basic
-8. Backend Development using Django - Beginner
+*(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
+1. **Python** - Advanced
+2. **Git Version Control** - Intermediate
+3. **C/C++** - Intermediate
+4. **HTML**  - Intermediate
+5. **CSS** - Intermediate
+6. **Linux Administration** - Basic  
+7. **Docker** - Basic
+8. **Backend Development using Django** - Beginner
+9. **SQL** - Beginner
 
 # Interests
 - Cloud
