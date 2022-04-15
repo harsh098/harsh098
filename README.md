@@ -57,7 +57,7 @@
 # Problem Solving and DSA
 I spend 2-3 days a month to learn about Data Structures and Algorithms as I am more engrossed into projects and learning.
 I visit once or twice a month on these platforms to practice my Problem Solving and DSA skills.
-I did not enjoy Competitive Programming.  
+I do not enjoy Competitive Programming, so I left it and I focus on slowly covering DSA bit by bit  
 - **LeetCode :** [hmisraji07](https://leetcode.com/hmisraji07/)
 - **Hackerrank :** [hmisraji07](https://www.hackerrank.com/hmisraji07)  
 
