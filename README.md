@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **harsh098/harsh098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,10 @@ I am Harsh Mishra,
   
   
   
+
   
+# Contributions Profile  
+
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh098&show_icons=true,prs&cache_seconds=86400&theme=tokyonight)](https://github.com/harsh098)
 
   
