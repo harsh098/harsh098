@@ -33,7 +33,7 @@
 
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
-1. **Python** - Advanced
+1. **Python** - Intermediate
 2. **Git Version Control** - Intermediate
 3. **C/C++** - Intermediate
 4. **HTML**  - Intermediate
