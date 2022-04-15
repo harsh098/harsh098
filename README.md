@@ -57,3 +57,21 @@ I am Harsh Mishra,
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
 - **2021 :** Completed my Class 12<sup>th</sup> (Intermediate) from Central Board of Secondary Education,New Delhi,India.
 - **2019 :** Completed my Class 10<sup>th</sup> from Central Board of Secondary Education,New Delhi,India.
+  
+# Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/harsh-mishra-b94096144/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/harsh098" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/harsh_dev8086" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+ <a href="https://instagram.com/harsh.dev8086" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
