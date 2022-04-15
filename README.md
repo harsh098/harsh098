@@ -31,12 +31,26 @@ I am Harsh Mishra,
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)  
 
+# Skills
+1. Python - Advanced
+2. Git Version Control - Intermediate
+3. C/C++ - Intermediate
+4. HTML  - Intermediate
+5. CSS - Intermediate
+6. Linux Administration - Basic  
+7. Docker - Basic
+8. Backend Development using Django - Beginner
+
 # Interests
 - Cloud
 - DevOps
 - Distributed Systems  
-  
-# Languages I code in
+
+# Hobbies 
+- Debating
+- Listening to Music
+
+# Languages I have contributed in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh098)](https://github.com/harsh098)  
 
 # Education
