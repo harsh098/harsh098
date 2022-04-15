@@ -42,6 +42,8 @@
 7. **Docker** - Basic
 8. **Backend Development using Django** - Beginner
 9. **SQL** - Beginner
+10. **DSA** - Beginner
+
 
 # Interests
 - Cloud
@@ -51,6 +53,13 @@
 # Hobbies 
 - Debating
 - Listening to Music
+
+# Problem Solving and DSA
+I spend 2-3 days a month to learn about Data Structures and Algorithms as I am more engrossed into projects and learning.
+I visit once or twice a month on these platforms to practice my Problem Solving and DSA skills.
+I did not enjoy Competitive Programming.  
+- **LeetCode :** [hmisraji07](https://leetcode.com/hmisraji07/)
+- **Hackerrank :** [hmisraji07](https://www.hackerrank.com/hmisraji07)  
 
 # Languages I have contributed in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh098)](https://github.com/harsh098)  
