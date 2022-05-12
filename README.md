@@ -20,7 +20,7 @@
   
 # Contributions Profile  
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh098&show_icons=true,prs&cache_seconds=86400&theme=tokyonight)](https://github.com/harsh098)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh098&show_icons=true,prs&cache_seconds=86400&theme=tokyonight)](https://github.com/harsh098/ru-hacks-2022-submission)
 
   
   
@@ -29,7 +29,8 @@
 # Projects  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/)  
 
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
