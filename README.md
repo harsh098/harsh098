@@ -30,7 +30,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/)  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=ocean)](https://github.com/harsh098/ru-hacks-2022-submission)  
 
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
