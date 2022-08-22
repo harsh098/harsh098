@@ -5,7 +5,7 @@
 -->
 ### I am Harsh Mishra,
 
-- 🔭 I’m currently working on [Win32Spy](https://github.com/harsh098/Win32Spy) and [SIMF](https://github.com/harsh098/simple-in-memory-filesystem) 
+<!-- - 🔭 I’m currently working on [Win32Spy](https://github.com/harsh098/Win32Spy) and [SIMF](https://github.com/harsh098/simple-in-memory-filesystem) -->
 - 🌱 I’m currently learning Backend Development , DevOps and Cloud
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/harsh098/) and [LinkedIn](https://www.linkedin.com/in/harsh-mishra-b94096144/)
 - 🤔 I’m looking for help with Linux Modules and Open Source development
