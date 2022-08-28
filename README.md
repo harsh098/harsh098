@@ -38,15 +38,16 @@
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
 1. **Python** - Intermediate
-2. **Git Version Control** - Intermediate
-3. **C/C++** - Basic
-4. **HTML**  - Intermediate
-5. **CSS** - Intermediate
-6. **Linux Administration** - Basic  
-7. **Docker** - Basic
-8. **Backend Development using Django** - Basic
-9. **SQL** - Beginner
-10. **DSA** - Beginner
+2. **Backend Development using Django** - Basic
+3. **Git Version Control** - Intermediate
+4. **Linux Administration** - Basic 
+5. **C** - Intermediate
+6. **C++**- Basic
+7. **HTML**  - Intermediate
+8. **CSS** - Intermediate
+9. **Docker** - Basic
+10. **SQL** - Beginner
+11. **DSA** - Beginner
 
 
 # Interests
