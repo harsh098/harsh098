@@ -36,12 +36,12 @@
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
 1. **Python** - Intermediate
 2. **Git Version Control** - Intermediate
-3. **C/C++** - Intermediate
+3. **C/C++** - Basic
 4. **HTML**  - Intermediate
 5. **CSS** - Intermediate
 6. **Linux Administration** - Basic  
 7. **Docker** - Basic
-8. **Backend Development using Django** - Beginner
+8. **Backend Development using Django** - Basic
 9. **SQL** - Beginner
 10. **DSA** - Beginner
 
