@@ -63,7 +63,10 @@ I do not enjoy Competitive Programming, so I left it and I focus on slowly cover
 - **Hackerrank :** [hmisraji07](https://www.hackerrank.com/hmisraji07)  
 
 # Languages I have contributed in
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh098)](https://github.com/harsh098)  
+ 1. Python
+ 2. C
+ 3. HTML
+ 4. CSS
 
 # Education
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
