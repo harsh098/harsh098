@@ -26,7 +26,8 @@
   
 
   
-# Projects  
+# Projects
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-) 
@@ -38,16 +39,19 @@
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
 1. **Python** - Intermediate
-2. **Backend Development using Django** - Basic
+2. **Backend Development using Django** - Intermediate
 3. **Git Version Control** - Intermediate
 4. **Linux Administration** - Basic 
 5. **C** - Intermediate
 6. **C++**- Basic
 7. **HTML**  - Intermediate
 8. **CSS** - Intermediate
-9. **Docker** - Basic
-10. **SQL** - Beginner
-11. **DSA** - Beginner
+9. **Docker** - Intermediate
+10. **Kubernetes** - Basic
+11. **SQL** - Beginner
+12. **DSA** - Beginner
+13. **Microservices** - Basic
+14. **Message Queues** - Basic
 
 
 # Interests
