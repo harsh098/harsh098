@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Backend Development , DevOps and Cloud
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/harsh098/) and [LinkedIn](https://www.linkedin.com/in/harsh-mishra-b94096144/)
 - 🤔 I’m looking for help with Linux Modules and Open Source development
-- 💬 Ask me about Linux , C/C++ and Python
+- 💬 Ask me about Linux , DevOps, Microservices, Go and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-mishra-b94096144/), [Twitter](https://twitter.com/harsh_dev8086) and [Instagram](https://instagram.com/harsh.dev8086)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I haven't figured out yet what tech stack I want to work in. I work with whatever accomplishes the project.  
