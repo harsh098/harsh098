@@ -12,7 +12,8 @@
 - 💬 Ask me about Linux , DevOps, Microservices, Go and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-mishra-b94096144/), [Twitter](https://twitter.com/harsh_dev8086) and [Instagram](https://instagram.com/harsh.dev8086)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I haven't figured out yet what tech stack I want to work in. I work with whatever accomplishes the project.  
+- ⚡ Fun fact: I haven't figured out yet what tech stack I want to work in. I work with whatever accomplishes the project.
+- 🖋️ Visit My personal blog here:- [randomtinkering.hashnode.dev](https://randomtinkering.hashnode.dev/) 
   
   
   
