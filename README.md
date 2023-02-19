@@ -59,24 +59,12 @@
 # Interests
 - Cloud
 - DevOps
-- Distributed Systems  
+- Distributed Systems 
+- Systems Programming
 
 # Hobbies 
 - Debating
 - Listening to Music
-
-# Problem Solving and DSA
-I spend 2-3 days a month to learn about Data Structures and Algorithms as I am more engrossed into projects and learning.
-I visit once or twice a month on these platforms to practice my Problem Solving and DSA skills.
-I do not enjoy Competitive Programming, so I left it and I focus on slowly covering DSA bit by bit  
-- **LeetCode :** [hmisraji07](https://leetcode.com/hmisraji07/)
-- **Hackerrank :** [hmisraji07](https://www.hackerrank.com/hmisraji07)  
-
-# Languages I have contributed in
- 1. Python
- 2. C
- 3. HTML
- 4. CSS
 
 # Education
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
