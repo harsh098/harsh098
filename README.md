@@ -16,17 +16,6 @@
 - 🖋️ Visit My personal blog here:- [randomtinkering.hashnode.dev](https://randomtinkering.hashnode.dev/) 
   
   
-  
-
-  
-# Contributions Profile  
-
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh098&show_icons=true,prs&cache_seconds=86400&theme=tokyonight)](https://github.com/harsh098/ru-hacks-2022-submission)
-
-  
-  
-
-  
 # Projects
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
