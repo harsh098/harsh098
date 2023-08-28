@@ -13,16 +13,19 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-mishra-b94096144/), [Twitter](https://twitter.com/harsh_dev8086) and [Instagram](https://instagram.com/harsh.dev8086)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I haven't figured out yet what tech stack I want to work in. I work with whatever accomplishes the project.
-- 🖋️ Visit My personal blog here:- [randomtinkering.hashnode.dev](https://randomtinkering.hashnode.dev/) 
+- 🖋️ Visit My personal blog here:- [randomtinkering.hashnode.dev](https://randomtinkering.hashnode.dev/)
+- 💺 Schedule a meet with me here:- [https://calendly.com/hmisraji07](https://calendly.com/hmisraji07)
+
   
   
 # Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=helm-eks-action-awscli-2&theme=highcontrast)](https://github.com/harsh098/helm-eks-action-awscli-2)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
    
 
