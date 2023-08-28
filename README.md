@@ -21,32 +21,35 @@
 # Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=portfolio-website&theme=highcontrast)](https://github.com/harsh098/portfolio-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=helm-eks-action-awscli-2&theme=highcontrast)](https://github.com/harsh098/helm-eks-action-awscli-2)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=simple-in-memory-filesystem&theme=highcontrast)](https://github.com/harsh098/simple-in-memory-filesystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
    
 
 # Skills
 *(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
 1. **Python** - Intermediate
 2. **Golang** - Basic
-3. **Backend Development using Django** - Intermediate
-4. **Git Version Control** - Intermediate
-5. **Linux Administration** - Basic 
-6. **C** - Intermediate
-7. **C++**- Basic
-8. **HTML**  - Intermediate
-9. **CSS** - Intermediate
-10. **Docker** - Intermediate
-11. **Kubernetes** - Basic
-12. **SQL** - Beginner
-13. **DSA** - Beginner
-14. **Microservices** - Intermediate
-15. **Message Queues** - Basic
+3. **AWS EKS** - Basic
+4. **AWS IAM** - Basic
+5. **AWS VPC** - Basic
+6. **Kubernetes** - Intermediate
+7. **Microservices** - Intermediate
+8. **Docker** - Intermediate
+9. **Backend Development using Django** - Intermediate
+10. **Git Version Control** - Intermediate
+11. **Linux Administration** - Intermediate 
+12. **C** - Intermediate
+13. **C++**- Basic
+14. **HTML**  - Intermediate
+15. **CSS** - Basic
+16. **SQL** - Beginner
+17. **DSA** - Beginner
+18. **Message Queues** - Basic
 
 
 # Interests
