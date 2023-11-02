@@ -32,27 +32,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
    
 
-# Skills
-*(**Grading Scale**:- Pro > Advanced > Intermediate > Basic > Beginner)*
-1. **Python** - Intermediate
-2. **Golang** - Basic
-3. **AWS EKS** - Basic
-4. **AWS IAM** - Basic
-5. **AWS VPC** - Basic
-6. **Kubernetes** - Intermediate
-7. **Microservices** - Intermediate
-8. **Docker** - Intermediate
-9. **Backend Development using Django** - Intermediate
-10. **Git Version Control** - Intermediate
-11. **Linux Administration** - Intermediate 
-12. **C** - Intermediate
-13. **C++**- Basic
-14. **HTML**  - Intermediate
-15. **CSS** - Basic
-16. **SQL** - Beginner
-17. **DSA** - Beginner
-18. **Message Queues** - Basic
+# Languages and Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,python,golang,c,linux,docker,js,rabbitmq,postgres,mongodb,mysql,django,flask,html,css,git,github,githubactions,grafana,prometheus,firebase&perline=8" />  <br>
+    <img src="https://helm.sh/img/helm.svg" style="height:48px;width:48px" /><img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/jenkinsx/icon/color/jenkinsx-icon-color.svg" style="height:48px;width:48px" />
+    <img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/tekton/icon/color/tekton-icon-color.svg" style="height:48px;width:48px" />
+    <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" style="height:48px;width:48px" />
+    
+  </a>
+</p>
 
 # Interests
 - Cloud
@@ -63,6 +53,7 @@
 # Hobbies 
 - Debating
 - Listening to Music
+
 
 # Education
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
@@ -85,4 +76,6 @@
 </a>
 
 </div>
+
+
 
