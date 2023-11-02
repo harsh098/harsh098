@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,python,golang,c,linux,docker,js,rabbitmq,postgres,mongodb,mysql,django,flask,html,css,git,github,githubactions,grafana,prometheus,firebase&perline=8" />  <br>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,python,golang,c,linux,docker,js,rabbitmq,postgres,mongodb,mysql,django,flask,html,css,git,github,githubactions,grafana,prometheus,firebase,selenium,bash&perline=8" />  <br>
     <img src="https://helm.sh/img/helm.svg" style="height:48px;width:48px" /><img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/jenkinsx/icon/color/jenkinsx-icon-color.svg" style="height:48px;width:48px" />
     <img src="https://raw.githubusercontent.com/cdfoundation/artwork/main/tekton/icon/color/tekton-icon-color.svg" style="height:48px;width:48px" />
     <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" style="height:48px;width:48px" />
