@@ -20,6 +20,7 @@
   
   
 # Projects  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=helm-eks-action-awscli-2&theme=highcontrast)](https://github.com/harsh098/helm-eks-action-awscli-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=cnative-dashboard&theme=highcontrast)](https://github.com/harsh098/cnative-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=portfolio-website&theme=highcontrast)](https://github.com/harsh098/portfolio-website)
@@ -30,7 +31,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
-   
 
 # Languages and Tools
 
@@ -53,7 +53,10 @@
 # Hobbies 
 - Debating
 - Listening to Music
-
+<br/>
+<hr/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh098&" alt="harsh098" /></p>
+<hr/>
 
 # Education
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
@@ -76,6 +79,4 @@
 </a>
 
 </div>
-
-
-
+<br/>
