@@ -19,19 +19,6 @@
 
   
   
-# Projects  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=helm-eks-action-awscli-2&theme=highcontrast)](https://github.com/harsh098/helm-eks-action-awscli-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=cnative-dashboard&theme=highcontrast)](https://github.com/harsh098/cnative-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=portfolio-website&theme=highcontrast)](https://github.com/harsh098/portfolio-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=microservice-deploy&theme=highcontrast)](https://github.com/harsh098/microservice-deploy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=Win32Spy&theme=nightowl)](https://github.com/harsh098/Win32Spy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=IMFS&theme=highcontrast)](https://github.com/harsh098/IMFS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=web-scraper-amazon-&theme=highcontrast)](https://github.com/harsh098/web-scraper-amazon-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=ru-hacks-2022-submission&theme=nightowl)](https://github.com/harsh098/ru-hacks-2022-submission)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=quiz-REST-API-with-firebase&theme=highcontrast)](https://github.com/harsh098/quiz-REST-API-with-firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harsh098&repo=social-book&theme=nightowl)](https://github.com/harsh098/social-book) 
-
 # Languages and Tools
 
 <p align="center">
