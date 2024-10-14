@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I haven't figured out yet what tech stack I want to work in. I work with whatever accomplishes the project.
 - 🖋️ Visit My personal blog here:- [randomtinkering.hashnode.dev](https://randomtinkering.hashnode.dev/)
 - 🌐 Website :- [hmx86.tech](https://hmx86.tech/)
-- 💺 Schedule a meet with me here:- [https://calendly.com/hmisraji07](https://calendly.com/hmisraji07)
+- 💺 Schedule a meet with me here:- [https://calendly.com/harsh_mishra](https://calendly.com/harsh_mishra)
 
   
   
