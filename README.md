@@ -45,10 +45,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh098&" alt="harsh098" /></p>
 <hr/>
 
-# Education
-- Currently, pursuing **B.Tech.** *in Computer Science and Technology* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
-- **2021 :** Completed my Class 12<sup>th</sup> (Intermediate) from Central Board of Secondary Education,New Delhi,India.
-- **2019 :** Completed my Class 10<sup>th</sup> from Central Board of Secondary Education,New Delhi,India.
   
 # Connect with me  
 <div align="center">
